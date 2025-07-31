@@ -20,4 +20,3 @@ print("Lauri")
 print("Simeoni")
 print("Timo")
 print("Tuomas")
-
